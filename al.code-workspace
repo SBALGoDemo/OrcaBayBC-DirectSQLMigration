@@ -2,6 +2,9 @@
   "folders": [
     {
       "path": "OrcaBayBC-DirectSQLMigration"
+    },    
+    {
+      "path": "OrcaBayBC-DirectSQLMigration.Test"
     },
     {
       "path": ".AL-Go"
