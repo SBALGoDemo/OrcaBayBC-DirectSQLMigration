@@ -1,6 +1,9 @@
 {
   "folders": [
     {
+      "path": "OrcaBayBC-DirectSQLMigration"
+    },    
+    {
       "path": "OrcaBayBC-DirectSQLMigration.Test"
     },
     {

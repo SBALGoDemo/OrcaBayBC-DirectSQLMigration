@@ -1,0 +1,31 @@
+{
+  "id": "b65a71c8-f2fa-4e78-9b44-3a3ec69cd90d",
+  "name": "OrcaBayBC-DirectSQLMigration",
+  "publisher": "Silver Bay Seafoods",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "22.0.0.0",
+  "idRanges": [
+    {
+      "from": 66100,
+      "to": 66199
+    }
+  ],
+  "features": [
+    "NoImplicitWith"
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": false,
+    "includeSourceInSymbolFile": false
+  }
+}
